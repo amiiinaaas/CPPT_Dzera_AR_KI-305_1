@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"KI305.Dzera.Lab3","l":"Laptop.Battery"},{"p":"KI305.Dzera.Lab3","l":"Computer"},{"p":"KI305.Dzera.Lab3","l":"Laptop"},{"p":"KI305.Dzera.Lab3","l":"LaptopApp"},{"p":"KI305.Dzera.Lab3","l":"LaptopInterface"}];updateSearchResults();

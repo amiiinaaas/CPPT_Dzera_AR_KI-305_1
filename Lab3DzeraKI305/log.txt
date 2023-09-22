@@ -1,0 +1,12 @@
+The computer is on.
+Calculations are being performed...
+Hard drive is in good condition.
+The data is saved on the hard disk.
+Available RAM: 8 ГБ
+The program starts: Microsoft Exel
+The monitor settings have been changed.
+Left mouse button clicked.
+Mouse scrolled down.
+Installed software: Google Drive
+Installed software: Adobe Illustrator
+The computer is turned off.
