@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"KI305.Dzera.Lab4","l":"CalcException"},{"p":"KI305.Dzera.Lab4","l":"ClassException"},{"p":"KI305.Dzera.Lab4","l":"Equations"}];updateSearchResults();
