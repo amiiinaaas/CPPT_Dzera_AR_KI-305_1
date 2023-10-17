@@ -1,0 +1,18 @@
+The computer is on.
+Calculations are being performed...
+Hard drive is in good condition.
+The data is saved on the hard disk.
+Monitor changed to 2560x1440
+Available RAM: 8 ГБ
+The program starts: Microsoft Exel
+The monitor settings have been changed.
+Left mouse button clicked.
+Right mouse button clicked.
+Mouse scrolled down.
+Mouse scrolled up.
+Installed software: Google Drive
+Installed software: Adobe Photoshop & Illustrator
+Google Drive
+Adobe Photoshop & Illustrator
+The computer is turned off.
+Computer turned off.
