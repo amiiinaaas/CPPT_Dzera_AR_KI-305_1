@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"KI305.Dzera.Lab6","l":"Barrel"},{"p":"KI305.Dzera.Lab6","l":"CargoBox"},{"p":"KI305.Dzera.Lab6","l":"CargoItem"},{"p":"KI305.Dzera.Lab6","l":"ShipHold"},{"p":"KI305.Dzera.Lab6","l":"ShipHoldDriver"}];updateSearchResults();
